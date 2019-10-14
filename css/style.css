@@ -24,14 +24,14 @@ position: absolute;
 background-color: ;
 top: 50%;
 left: 30%;
-width: 35em;
+width: 40vw;
 
 	}
 .two{
 
 position: absolute;
 background-color: ;
-top: 175%;
+top: 175vh;
 left: 2%;
 transform: rotate(5deg);
 	}
@@ -39,7 +39,7 @@ transform: rotate(5deg);
 
 position: absolute;
 background-color: ;
-top: 175%;
+top: 175vh;
 right: 2%;
 transform: rotate(-5deg);
 	}
