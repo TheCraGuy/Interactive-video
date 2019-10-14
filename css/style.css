@@ -24,7 +24,7 @@ position: absolute;
 background-color: ;
 top: 50%;
 left: 30%;
-
+width: 35em;
 
 	}
 .two{
@@ -32,7 +32,7 @@ left: 30%;
 position: absolute;
 background-color: ;
 top: 175%;
-left: 1%;
+left: 2%;
 transform: rotate(5deg);
 	}
 	.three{
@@ -40,6 +40,6 @@ transform: rotate(5deg);
 position: absolute;
 background-color: ;
 top: 175%;
-right: 1%;
+right: 2%;
 transform: rotate(-5deg);
 	}
