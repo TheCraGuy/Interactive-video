@@ -25,20 +25,21 @@ background-color: ;
 top: 50%;
 left: 30%;
 
+
 	}
 .two{
 
 position: absolute;
 background-color: ;
-top: 1250px;
-left: 10px;
+top: 175%;
+left: 1%;
 transform: rotate(5deg);
 	}
 	.three{
 
 position: absolute;
 background-color: ;
-top: 1250px;
-right: 10px;
+top: 175%;
+right: 1%;
 transform: rotate(-5deg);
 	}
