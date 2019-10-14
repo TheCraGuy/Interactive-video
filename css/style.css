@@ -22,8 +22,8 @@
 
 position: absolute;
 background-color: ;
-top: 50%;
-left: 30%;
+top: 50vh;
+left: 30vw;
 width: 40vw;
 
 	}
@@ -32,7 +32,7 @@ width: 40vw;
 position: absolute;
 background-color: ;
 top: 175vh;
-left: 2%;
+left: 2vw;
 transform: rotate(5deg);
 	}
 	.three{
@@ -40,6 +40,6 @@ transform: rotate(5deg);
 position: absolute;
 background-color: ;
 top: 175vh;
-right: 2%;
+right: 2vw;
 transform: rotate(-5deg);
 	}
